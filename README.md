@@ -1,7 +1,7 @@
 # Insurance-dashboard-PowerBi
 Interactive Power Bi dashboard for Insurance Analytics.
-![Insurance dashboard]
-(Insurance Dashboard.png)
+![Insurance Dashboard]
+(images/insurance_dashboard.png)
 
 ## Project Overview
 This project was built as a hands-on learning exercise using a guided tutorial. It transforms raw insurance data into business-ready insights through clean and interactive visuals.
